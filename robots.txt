@@ -1,0 +1,13 @@
+# ==========================================
+# Tanvir Traders (তানভীর ট্রেডার্স) Robots.txt
+# Official Dealership Management Portal
+# ==========================================
+
+User-agent: *
+Allow: /
+Allow: /public/
+Allow: /style.css
+Allow: /script.js
+
+# Sitemap Location
+Sitemap: https://tanvirtraders.com/sitemap.xml

@@ -1,0 +1,28 @@
+{
+  "name": "তানভীর ট্রেডার্স | Tanvir Traders",
+  "short_name": "Tanvir Traders",
+  "description": "তানভীর ট্রেডার্স — আকিজ বেকার্স ও মেঘনা বেভারেজ (ফ্রেশ) অনুমোদিত ডিলারশিপ ম্যানেজমেন্ট পোর্টাল। আলফাডাঙ্গা, ফরিদপুর।",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "public/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
